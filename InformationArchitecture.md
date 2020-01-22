@@ -10,6 +10,6 @@ _italics_
 
 ***Bold Italics***
 
-![alt text](Images/CardSortingByCompetition.jpg "Logo Title Text 1")
+![alt text](Images/CardSortingByCompetition.jpg )
 
 Images/CardSortingByCompetition.jpg
