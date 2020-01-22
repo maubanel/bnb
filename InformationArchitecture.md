@@ -10,4 +10,6 @@ _italics_
 
 ***Bold Italics***
 
-![alt text](https://github.com/maubanel/bnb/tree/master/Images/CardSortingByCompetition.jpg "Logo Title Text 1")
+![alt text](Images/CardSortingByCompetition.jpg "Logo Title Text 1")
+
+Images/CardSortingByCompetition.jpg
