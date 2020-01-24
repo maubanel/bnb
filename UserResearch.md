@@ -6,13 +6,9 @@
 
 ## Research Market Data
 
-## User Champion
-
 ## Gather Findings
 
 ## Design Studies
-
-## User Champion
 
 ## Usability Testing
 
