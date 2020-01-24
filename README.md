@@ -11,7 +11,7 @@ Custom Clothiers Business
 ## Initial Contact 
 Tuesday November 12th, 2019
 
-We reached out Brown and Brown Custom Clothiers and asked if he was interested in allowing us to do a real-life UX project on his business. 
+We reached out Custom Clothiers and asked if he was interested in allowing us to do a real-life UX project on this business. 
 
 
 ## PreScreen 
