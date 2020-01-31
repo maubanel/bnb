@@ -26,10 +26,9 @@
 #### User Personas
 
 Pre Assumptions of what users we think would be in the market for custom suits. 
-
-![alt text](Images/user-Personas-B&B.png )
-![alt text](Images/user-Personas-B&B2.png )
-![alt text](Images/user-Personas-B&B3.png )
+<kbd>
+  <img src="Images/user-Personas-B&B.png">
+</kbd>
 
 ## Design Studies
 
