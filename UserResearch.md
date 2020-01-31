@@ -28,10 +28,10 @@
 Pre Assumptions of what users we think would be in the market for custom suits. 
 
   <kbd>
-   <img src="user-Personas-B&B.png">
+   <img src="images/user-Personas-B&B.png">
  </kbd>
  
-<img src="user-Personas-B&B.png" style="border: 15px solid black;">
+<img src="images/user-Personas-B&B.png" style="border: 15px solid black;">
 ## Design Studies
 
 ## Usability Testing
