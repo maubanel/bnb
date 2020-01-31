@@ -27,7 +27,7 @@
 
 Pre Assumptions of what users we think would be in the market for custom suits. 
 
-  <img src="Images/user-Personas-B&B.png" style="border-radius:50%">
+  <img src="Images/user-Personas-B&B.png" style="border: 2px solid black; border-radius: 50%">
 
 
 ## Design Studies
