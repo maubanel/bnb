@@ -19,13 +19,11 @@ Questions
 * Which social media do you use the most personally? 
 * What could a business do to reach more people just like you?
 
-
+Results
  <kbd>
    <img src="Images/Survey_Results01.jpg">
  </kbd>
- 
 <br/>
-
  <kbd>
    <img src="Images/Survey_Results02.jpg">
  </kbd>
