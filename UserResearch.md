@@ -20,7 +20,9 @@
 
 
 ## Research Market Data
-
+<kbd>
+   <img src="Images/MensWarehouseCollage.png">
+ </kbd>
 ## Gather Findings
 
 #### User Personas
