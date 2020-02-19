@@ -1,10 +1,11 @@
 # User Research
 
 ## User Champion
+The User Champions of this project are ourselves (Roderick and Narges) because we are keeping the end-user in the mind the entire time and not just the client. We want to make sure the website experience overall turns into the end user coming to the in-store location.
 
 ## User Interviews
+Questions 
 
-#### Questions we propose 
 * Age ?
 * Gender ?
 * Highest Level of Education ?
@@ -27,7 +28,9 @@ Men's Warehouse is a chain suit shop and we visited a local one in Baton Rouge. 
 
 ## Gather Findings
 
-#### User Personas
+We are looking to explore how to get more on foot traffic to enter the store. As of now most customers are by word of mouth and personal relationships. Also, per our user research data we see more people would be interested in spending more money if there is a discount or sale involved. Therefore, we will explore more ways to attract new customers by offer some deals such a free cleaning or suit repair for first-time customers.
+
+## User Personas
 
 Pre Assumptions of what users we think would be in the market for custom suits. 
 
