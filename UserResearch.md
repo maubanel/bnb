@@ -34,7 +34,7 @@ Results
    <img src="Images/MensWarehouseCollage.png">
  </kbd>
 
-Men's Warehouse is a chain suit shop and we visited a local one in Baton Rouge. We noticed they have pricing info on custom suits immendientaly on the window, which we really liked it. We also noticed that in their custom area they allow you to touch and experiment with different clothes, which is extremely helpful. You can even apply those clothes to a model which is pictured below and this is great for visulaizing your entire suit.
+Men's Warehouse is a chain suit shop and we visited a local one in Baton Rouge. We noticed they have pricing info on custom suits immendientaly on the window, which we really liked it. We also noticed that in their custom area they allow you to touch and experiment with different cloths, which is extremely helpful. You can even apply those cloths to a model which is pictured above and this is great for visulaizing your entire suit. Lastly, the store was organized into four main areas: business suits seperated by brand, wedding suits/tuxdeos, accessories and custom suits.
 
 ## Gather Findings
 
