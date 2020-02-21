@@ -45,13 +45,13 @@ We are looking to explore how to get more on foot traffic to enter the store. As
 Pre Assumptions of what users we think would be in the market for custom suits. 
 
   <kbd>
-   <img src="Images/user-Personas-B&B.png">
+   <img src="Images/user-Personas-R&N.png">
  </kbd>
    <kbd>
-   <img src="Images/user-Personas-B&B2.png">
+   <img src="Images/user-Personas-R&N2.png">
  </kbd>
    <kbd>
-   <img src="Images/user-Personas-B&B3.png">
+   <img src="Images/user-Personas-R&N3.png">
  </kbd>
  
 ## Design Studies
