@@ -9,7 +9,7 @@ Comparing Brown and Brown Custom Clothiers to its competitors Martinez Custom, G
 
 ![alt text](Images/CareASortingPriority.jpg )
 
-## Grouping
+## Navigation Hierarchy (Grouping)
 Upon reviewing the cardsorting exercise we noticed an overlap of certain words. We noticed Collection (Brands), About Us, FAQ and Contact Us were used between all the sites. Collecting this data will show how we should name certain things on the Custom Clothier website. This also lead to the following exercise of Grouping, which are grouping our features we think are important for the website.
 
 ![alt text](Images/Narges-grouping.png )
@@ -19,3 +19,11 @@ After careful investigation of the content and categories existing on the compet
 ![alt text](Images/RodGrouping.png)
 
 I chose to my grouping in a Venn Diagram style and group based on where products/links shall fall. I chose to make Products the big circle because that is essentially the main reasons customers are coming to the site. Inside of products I listed Jackets, Shirts, Tuxedos and Pants as supporting circles. I then made a mini circle in Jackets for Sport Coats because some customers maybe looking for specific jackets styles. The outskirts of the circle I have Pricing, Logo, Appointment, Accessories and Location/Hours. Personally, if I’m interested in the site I will go to Pricing and or Location/Hours. I have sales within pricing as a supporting circle. Within Accessories I have belts and the outside of Accessories I have shoes. Lastly, Contact Us and FAQ are outside of the Location/Hours circle. Process is within FAQ and Social Media is within Contact Us. The exercise really showed which features are important and are optional.
+
+## Create Sitemap
+
+## Wireframes
+
+## Data Modeling
+
+## User Champion
