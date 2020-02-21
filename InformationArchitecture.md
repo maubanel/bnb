@@ -26,6 +26,7 @@ I chose to my grouping in a Venn Diagram style and group based on where products
 We created this sitemap to show flow and organization of the website. We narrowed down our five nav bars to be: Products, Appointment, Accessories, Services and Contact Us. Those will serve as our main pages and within those will be sub pages with more detailed photos and information. We made sure to include a promotional banner and brand information because we know this is something a custom suit buyer will care about.
 
 ## Wireframes
+![alt text](Images/R&N_WebWireframe.jpg)
 
 ## Data Modeling
 
