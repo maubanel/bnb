@@ -28,6 +28,8 @@ We created this sitemap to show flow and organization of the website. We narrowe
 ## Wireframes
 ![alt text](Images/R&N_WebWireframe.jpg)
 
+![alt text](Images/R&N-PhoneWireframe.jpg)
+
 ## Data Modeling
 
 
