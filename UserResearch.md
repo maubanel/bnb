@@ -1,7 +1,7 @@
 # User Research
 
 ## User Champion
-The User Champions of this project are ourselves (Roderick and Narges) because we are keeping the end-user in the mind the entire time and not just the client. We want to make sure the website experience overall turns into the end user coming to the in-store location.
+The User Champions of this project are ourselves (Roderick and Narges) because we are keeping the end-user in mind the entire time and not just the re-design. We want to make sure the website experience overall turns into the end user coming to the in-store location. We are constantly evaluating styles and tactics to pull those customers in such as offering more imformation with pictures than words.
 
 ## User Interviews
 Questions 
@@ -30,14 +30,15 @@ Results
 
 
 ## Research Market Data
-
-![alt text](Images/MensWarehouseCollage.png)
+ <kbd>
+   <img src="Images/MensWarehouseCollage.png">
+ </kbd>
 
 Men's Warehouse is a chain suit shop and we visited a local one in Baton Rouge. We noticed they have pricing info on custom suits immendientaly on the window, which we really liked it. We also noticed that in their custom area they allow you to touch and experiment with different clothes, which is extremely helpful. You can even apply those clothes to a model which is pictured below and this is great for visulaizing your entire suit.
 
 ## Gather Findings
 
-We are looking to explore how to get more on foot traffic to enter the store. As of now most customers are by word of mouth and personal relationships. Also, per our user research data we see more people would be interested in spending more money if there is a discount or sale involved. Therefore, we will explore more ways to attract new customers by offer some deals such a free cleaning or suit repair for first-time customers.
+We are looking to explore how to get more on foot traffic to enter the store. As of now most customers are by word of mouth and personal relationships. Our research data shows most people want to shop locally in their area for suits, which work perfectly for what we are trying to achieve. Also, per our user research data we see more people would be interested in spending more money if there is a discount or sale involved. Therefore, we will explore more ways to attract new customers by offering some deals such a free cleaning or suit repair for first-time customers. 
 
 ## User Personas
 
