@@ -30,7 +30,7 @@ We created this sitemap to show flow and organization of the website. We narrowe
 
 ![alt text](Images/R&N-PhoneWireframe.jpg)
 
-Download XD File https://github.com/maubanel/bnb/blob/master/Web-WireframeB%26B.xd
+Download XD File https://github.com/maubanel/bnb/blob/master/Web-WireframeB%26B_Version2.zip
 
 ## Data Modeling
 
