@@ -58,6 +58,12 @@ Pre Assumptions of what users we think would be in the market for custom suits.
 
 ## Usability Testing
 
-Seven main user journey's are: setting an appointment, find more information about our custom suit process and price, ordering an accessory, location and store hours, return policies, social media, and reviews. 
+Seven main user journey's are: 
+1. Setting an appointment. (easy to find? where do you expect to see it?)
+2. Find more information about our custom suit process and price (Do you wanna see a preview of the suit on you? what fabric you would like for the suit)
+3. Ordering an accessory
+4. Find out about location and store hours
+5. Find out more about return policies
+6. Read the reviews on social media 
 
 ## A/B Testing
