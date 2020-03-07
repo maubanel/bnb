@@ -61,9 +61,9 @@ Pre Assumptions of what users we think would be in the market for custom suits.
 Seven main user journey's are: 
 1. Setting an appointment. (easy to find? where do you expect to see it?)
 2. Find more information about our custom suit process and price (Do you wanna see a preview of the suit on you? what fabric you would like for the suit)
-3. Ordering an accessory
+3. Ordering a pair of shoe
 4. Find out about location and store hours
 5. Find out more about return policies
-6. Read the reviews on social media 
+6. Find out the reviews on social media 
 
 ## A/B Testing
