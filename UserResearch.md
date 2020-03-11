@@ -21,7 +21,7 @@ Questions
 
 Results
  <kbd>
-   <img src="Images/Survey_Results01.jpg">
+   <img src="Images/UsabilityTest1.jpg">
  </kbd>
 <br/>
  <kbd>
