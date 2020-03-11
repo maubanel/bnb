@@ -65,10 +65,20 @@ Seven main user journey's are:
 4. Find out about location and store hours
 5. Find out more about return policies
 6. Find out the reviews on social media 
-## Usability Test 01 Feedbacks Summery
-
+## Usability Test 01
+  
 <kbd>
    <img src="Images/UsabilityTest1.jpg">
  </kbd>
+ 
+### Feedback Summary
+Above we have our questions we wanted to ask each tester. We have a website and mobile friendly version because we know some users will first encounter our site on a cell phone. We tested between 12-15 people for our usability prototype test.  Majority of our testers found our prototype to be very usable and easy to navigate. For example, when we asked testers to “go home” and they would click our Logo to go home. They explained most sites have this feature and they're pleased we incorporated it as well. They also loved how descriptive we were and the amount of effort put into the prototype.
+ 
+ Some of the issues that our testers found are when we asked them to go to order a shoe they went to products instead of accessories. We want our site to be as clear as possible and cut the number of frustration clicks. Therefore, one solution we plan to implement is a search bar at the top and changing products to suits therefore we can keep the focus,which is on custom suits.
+ 
+ Another comment was instead of placing our reviews on the main home page to put comments under each product , so the reviews can seem more honest and legit. Also, to add more accessories to our website such cufflinks, suspenders, tie clips and pocket squares. We both agreed these are two ideas we think will help our site in a positive way. 
 
+In addition, some comments were made about placing our social media links in our header as well and not just in the footer at the bottom. Also, placing the store hours in appointment so a potential new customer does not schedule a time and no one is at the shop. 
+
+Overall, these usability tests really help us see our own bias to the design and get a good glimpse of what a real customer thinks and how they would navigate the site.
 ## A/B Testing
