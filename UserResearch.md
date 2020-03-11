@@ -65,5 +65,10 @@ Seven main user journey's are:
 4. Find out about location and store hours
 5. Find out more about return policies
 6. Find out the reviews on social media 
+## Usability Test 01 Feedbacks Summery
+
+<kbd>
+   <img src="Images/Survey_Results01.jpg">
+ </kbd>
 
 ## A/B Testing
