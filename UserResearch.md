@@ -21,7 +21,7 @@ Questions
 
 Results
  <kbd>
-   <img src="Images/UsabilityTest1.jpg">
+   <img src="Images/Survey_Results01.jpg">
  </kbd>
 <br/>
  <kbd>
@@ -68,7 +68,7 @@ Seven main user journey's are:
 ## Usability Test 01 Feedbacks Summery
 
 <kbd>
-   <img src="Images/Survey_Results01.jpg">
+   <img src="Images/UsabilityTest1.jpg">
  </kbd>
 
 ## A/B Testing
