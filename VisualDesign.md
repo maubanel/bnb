@@ -2,13 +2,13 @@
 
 ## Visual Designer
  <kbd>
-   <img src="Images/moodboard01.jpg">
+   <img src="Images/moodboard1.jpg">
  </kbd>
  <kbd>
-   <img src="Images/moodboard02.jpg">
+   <img src="Images/moodboard2.jpg">
  </kbd>
  <kbd>
-   <img src="Images/moodboard03.jpg">
+   <img src="Images/moodboard3.jpg">
  </kbd>
 
 ## Icons
