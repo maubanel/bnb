@@ -1,6 +1,5 @@
 # Visual Design 
-
-## Visual Designer
+## Mood Boards
  <kbd>
    <img src="Images/moodboard1.jpg">
  </kbd>
@@ -11,6 +10,8 @@
    <img src="Images/moodboard3.jpg">
  </kbd>
 
+## Visual Designer
+
 ## Icons
 
 ## Typography
@@ -18,9 +19,12 @@
 ## Style
 
 ## Color Swatches
+<kbd>
+   <img src="Images/colorpallet.jpg">
+ </kbd>
 
 ## Logo / Brand
 
 ## Style Guides
 
-## Mood Boards
+
