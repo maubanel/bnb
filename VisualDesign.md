@@ -22,6 +22,8 @@
 <kbd>
    <img src="Images/colorpallet.jpg">
  </kbd>
+ 
+ We chose these colors because they provide a since of traditonal and up-scale values. We want our customers to leave with a suit that provide the best version of themselves.
 
 ## Logo / Brand
 
