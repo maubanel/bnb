@@ -82,4 +82,9 @@ Above we have our questions we wanted to ask each tester. We have a website and 
 In addition, some comments were made about placing our social media links in our header as well and not just in the footer at the bottom. Also, placing the store hours in appointment so a potential new customer does not schedule a time and no one is at the shop. 
 
 Overall, these usability tests really help us see our own bias to the design and get a good glimpse of what a real customer thinks and how they would navigate the site.
+
+Here below is the version we tested (Pre) and now a revised verison per testers feedback(Post).
+
+https://github.com/maubanel/bnb/blob/master/Post%20Testing%20Custom%20Clothiers%20Prototype.xd
+https://github.com/maubanel/bnb/blob/master/Post%20Testing%20Custom%20Clothiers%20Prototype.xd
 ## A/B Testing
