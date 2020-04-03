@@ -10,9 +10,7 @@
    <img src="Images/moodboard3.jpg">
  </kbd>
 
-## Visual Designer
 
-## Icons
 
 ## Typography
 <kbd>
@@ -39,7 +37,12 @@
  <kbd>
    <img src="Images/BrownSuitLogo3.jpg">
  </kbd>
-
+ ## Icons
+ 
+## Visual Designer
+<kbd>
+   <img src="Images/BrownSuitDesignTest.jpg">
+ </kbd>
 ## Style Guides
 
 
