@@ -19,6 +19,11 @@
  
 
 ## Style
+<kbd>
+   <img src="Images/traditional.png">
+ </kbd>
+We chose to go with a traditional style to go with the tagline "Since 1973". This traditional aesthetic with show the progression over the years and how much customers appreciate our services.
+
 
 ## Color Swatches
 <kbd>
