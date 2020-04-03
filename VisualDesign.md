@@ -19,13 +19,12 @@
  
 
 ## Style
+
+We chose to go with a traditional style to go with the tagline "Since 1973". This traditional aesthetic will show the progression over the years and how much customers appreciate our services. Showcasing the wood pictured below is to establish the traditional tones we plan to have throughout the design.
+
 <kbd>
    <img src="Images/Traditional.png">
  </kbd>
- 
- 
-We chose to go with a traditional style to go with the tagline "Since 1973". This traditional aesthetic with show the progression over the years and how much customers appreciate our services.
-
 
 ## Color Swatches
 <kbd>
