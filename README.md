@@ -21,16 +21,13 @@ Custom Clothiers is local business in the Baton Rouge area and has been serving 
 
 ![alt text](Images/CustomClothiers.jpg)
 
-## User Research 
+## IndustryResearch
 
 
 ## Information Architecture
 
 
 ## Interaction Design
-
-
-## Usability
 
 
 ## Visual Design
