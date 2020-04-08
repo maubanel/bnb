@@ -1,6 +1,12 @@
+<small>[Back To README](https://github.com/maubanel/bnb) </small>
+
 # Visual Design 
+
 ## Mood Boards
- <kbd>
+
+We have collected a collage of potential styles and aesthetic for our website. Below we have a range of different types of layout and designs.
+
+<kbd>
    <img src="Images/moodboard1.jpg">
  </kbd>
  <kbd>
@@ -13,6 +19,9 @@
 
 
 ## Typography
+
+We have decided to use Playfair Display and Proxima Nova as our two main focus fonts. We plan to use Playfair Display for main healines and Proxima Nova on all other text on the website.
+
 <kbd>
    <img src="Images/Typography.png">
  </kbd>
