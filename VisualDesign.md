@@ -57,6 +57,7 @@ First pass of potential logos for the website. We are going for a simplistic des
  </kbd>
  
  
+
  Second Pass of potential logos for the website. We want to incorprate more of a custom elements so we decided to incorporate  some designs with a neddle and thread for example.
  
   <kbd>
