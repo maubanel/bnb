@@ -43,6 +43,9 @@ We chose to go with a traditional style to go with the tagline "Since 1973". Thi
  We chose these colors because they provide a since of traditonal and up-scale values. We want our customers to leave with a suit that provides the best version of themselves.
 
 ## Logo / Brand
+
+First pass of potential logos for the website. We are going for a simplistic design which showcases our company's mission and tagline "Since 1973". 
+
 <kbd>
    <img src="Images/BrownSuitLogo.jpg">
  </kbd>
@@ -52,6 +55,9 @@ We chose to go with a traditional style to go with the tagline "Since 1973". Thi
  <kbd>
    <img src="Images/BrownSuitLogo3.jpg">
  </kbd>
+ 
+ Second Pass of potential logos for the website. We want to incorprate more of a custom elements so we decided to incorporate  some designs with a neddle and thread for example.
+ 
   <kbd>
    <img src="Images/Logo_BrownSuits_D02.png">
  </kbd>
