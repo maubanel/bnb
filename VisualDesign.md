@@ -44,7 +44,7 @@ We chose to go with a traditional style to go with the tagline "Since 1973". Thi
    <img src="Images/BrownSuitLogo3.jpg">
  </kbd>
   <kbd>
-   <img src="Images/Logo_BrownSuits_D02.jpg">
+   <img src="Images/Logo_BrownSuits_D02.png">
  </kbd>
  ## Icons
  
