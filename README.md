@@ -31,7 +31,7 @@ https://github.com/maubanel/bnb/blob/master/InformationArchitecture.md
 
 ## User Research
 
-https://github.com/maubanel/bnb/blob/master/UserResearch.md
+[User Research](https://github.com/maubanel/bnb/blob/master/UserResearch.md)
 
 ## Visual Design
 
