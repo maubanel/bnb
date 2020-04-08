@@ -23,11 +23,16 @@ Custom Clothiers is local business in the Baton Rouge area and has been serving 
 
 ## Industry Research
 
+https://github.com/maubanel/bnb/blob/master/IndustryResearch.md
 
 ## Information Architecture
 
+https://github.com/maubanel/bnb/blob/master/InformationArchitecture.md
 
 ## User Research
 
+https://github.com/maubanel/bnb/blob/master/UserResearch.md
 
 ## Visual Design
+
+https://github.com/maubanel/bnb/blob/master/VisualDesign.md
