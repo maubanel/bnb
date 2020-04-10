@@ -36,12 +36,13 @@ We chose to go with a traditional style to go with the tagline "Since 1973". Thi
  </kbd>
 
 ## Color Swatches
+
+We chose these colors because they provide a since of traditon and up-scale values. We want our customers to leave with a suit that provides the best version of themselves. 
+
 <kbd>
    <img src="Images/colorpallet.jpg">
  </kbd>
  
- We chose these colors because they provide a since of traditonal and up-scale values. We want our customers to leave with a suit that provides the best version of themselves.
-
 ## Logo / Brand (First Pass)
 
 Here below are our first pass of potential logos for the website. We we're going for a simplistic design which showcases our business's mission and tagline "Since 1973". Also, incorporating some suit accessories like a bow tie or vest to the logo to help make it stand out.
@@ -58,12 +59,11 @@ Here below are our first pass of potential logos for the website. We we're going
  
  ## Logo / Brand (Second Pass)
  
+ Here below is our second pass of potential logos for the website. We decided to go back and add more of a custom feel so we   decided to incorporate some designs with a neddle and thread for example. We want our customers to know they are recieveing a unqiue suit for themselves.
+ 
   <kbd>
    <img src="Images/Logo_BrownSuits_D02.png">
  </kbd>
- 
- 
- Here below is our second pass of potential logos for the website. We decided to go back and add more of a custom feel so we decided to incorporate some designs with a neddle and thread for example. We want our customers to know they are recieveing a unqiue suit for themselves.
  
  ## Icons
  
