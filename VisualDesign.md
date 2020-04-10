@@ -44,7 +44,7 @@ We chose to go with a traditional style to go with the tagline "Since 1973". Thi
 
 ## Logo / Brand (First Pass)
 
-First pass of potential logos for the website. We are going for a simplistic design which showcases our company's mission and tagline "Since 1973". 
+Here below are our first pass of potential logos for the website. We we're going for a simplistic design which showcases our business's mission and tagline "Since 1973". Also, incorporating some suit accessories like a bow tie or vest to the logo to help make it stand out.
 
 <kbd>
    <img src="Images/BrownSuitLogo.jpg">
@@ -63,11 +63,14 @@ First pass of potential logos for the website. We are going for a simplistic des
  </kbd>
  
  
- Second Pass of potential logos for the website. We want to incorprate more of a custom elements so we decided to incorporate  some designs with a neddle and thread for example.
+ Here below is our second pass of potential logos for the website. We decided to go back and add more of a custom feel so we decided to incorporate some designs with a neddle and thread for example. We want our customers to know they are recieveing a unqiue suit for themselves.
  
  ## Icons
  
 ## Visual Designer
+
+Below we have both our web and phone prototype verisons with our color pallet. We created a range to see what looks better and what colors to use for certain headlines, buttons, text and etc. We agreed we prefer a lighter background which causes the brown to stand out. Also we would use the navy blue as our acent color and use it for areas we want to draw attention to such as for promotion tags.
+
 <kbd>
    <img src="Images/BrownSuitDesignTest.jpg">
  </kbd>
