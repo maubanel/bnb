@@ -92,3 +92,6 @@ Below we have another verison of our web and phone prototypes. We incorporated t
 <kbd>
    <img src="Images/Updated Phone Flow.png">
  </kbd>
+ <kbd>
+   <img src="Images/4pages.jpg">
+ </kbd>
