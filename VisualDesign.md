@@ -81,8 +81,8 @@ Below we have both our web and phone prototype verisons with our color pallet. W
 
 ## Visual Designs (Second Pass)
 
-Below we have another verison of our web and phone prototypes. We incorporated the light background theme because it was the most effective in our eyes.
+Below we have another verison of our web and phone prototypes. We incorporated the light background theme because it was the most effective in our eyes. We tested the theme our 4 main pages (Home, Suits, Appointment and Products).
 
 <kbd>
-   <img src="Images/updatedphonescreen.png">
+   <img src="Images/Updated Phone Flow.png">
  </kbd>
