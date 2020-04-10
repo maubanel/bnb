@@ -67,7 +67,7 @@ Here below are our first pass of potential logos for the website. We we're going
  
  ## Icons
  
-## Visual Designer
+## Visual Designs (First Pass)
 
 Below we have both our web and phone prototype verisons with our color pallet. We created a range to see what looks better and what colors to use for certain headlines, buttons, text and etc. We agreed we prefer a lighter background which causes the brown to stand out. Also we would use the navy blue as our acent color and use it for areas we want to draw attention to such as for promotion tags.
 
@@ -79,4 +79,10 @@ Below we have both our web and phone prototype verisons with our color pallet. W
    <img src="Images/phonescreen.png">
  </kbd>
 
+## Visual Designs (Second Pass)
 
+Below we have another verison of our web and phone prototypes. We incorporated the light background theme because it was the most effective in our eyes.
+
+<kbd>
+   <img src="Images/updatedphonescreen.png">
+ </kbd>
