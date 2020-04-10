@@ -93,5 +93,5 @@ Below we have another verison of our web and phone prototypes. We incorporated t
    <img src="Images/Updated Phone Flow.png">
  </kbd>
  <kbd>
-   <img src="Images/4pages.jpg">
+   <img src="Images/WebDesign4.jpg">
  </kbd>
