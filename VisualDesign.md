@@ -65,7 +65,9 @@ Here below are our first pass of potential logos for the website. We we're going
    <img src="Images/Logo_BrownSuits_D02.png">
  </kbd>
  
+ 
  Here below is our Final Logo
+ 
  
    <kbd>
    <img src="Images/FinalLogo.jpg">
@@ -88,7 +90,7 @@ Below we have both our web and phone prototype verisons with our color pallet. W
 
 ## Visual Designs (Second Pass)
 
-Below we have another verison of our web and phone prototypes. We incorporated the light background theme because it was the most effective in our eyes. We tested the theme our 4 main pages (Home, Suits, Appointment and Products).
+Below we have another verison of our web and phone prototypes. We incorporated the light background theme because it was the most effective in our eyes. We tested the theme on our 4 main pages (Home, Suits, Appointment and Products).
 
 <kbd>
    <img src="Images/WebDesign4.jpg">
