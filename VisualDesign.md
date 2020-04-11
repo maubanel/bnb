@@ -65,10 +65,10 @@ Here below are our first pass of potential logos for the website. We we're going
    <img src="Images/Logo_BrownSuits_D02.png">
  </kbd>
  
- 
- Here below is our Final Logo
- 
- 
+  ## Logo / Brand (Final Pass)
+
+Here below is our Final Logo
+
    <kbd>
    <img src="Images/FinalLogo.jpg">
  </kbd>
