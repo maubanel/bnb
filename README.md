@@ -36,3 +36,6 @@ Custom Clothiers is local business in the Baton Rouge area and has been serving 
 ## Visual Design
 
 [Visual Design](https://github.com/maubanel/bnb/blob/master/VisualDesign.md)
+
+## Visual Design 
+[Development](https://github.com/maubanel/bnb/blob/master/Development.md)
