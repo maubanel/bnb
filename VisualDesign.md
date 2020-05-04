@@ -65,7 +65,7 @@ Here below are our first pass of potential logos for the website. We we're going
    <img src="Images/Logo_BrownSuits_D02.png">
  </kbd>
  
-  ## Logo / Brand (Final)
+  ## Logo / Brand (Final Round)
 
 Here below is our Final Logo
 
@@ -99,7 +99,7 @@ Below we have another verison of our web and phone prototypes. We incorporated t
 <kbd>
    <img src="Images/Updated Phone Flow.png">
  </kbd>
- ## Visual Designs (Final)
+ ## Visual Designs (Final Round)
  <kbd>
    <img src="Images/DMRound21.jpg">
  </kbd>
