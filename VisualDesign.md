@@ -73,7 +73,8 @@ Here below is our Final Logo
    <img src="Images/FinalLogo.jpg">
  </kbd>
  
- ## Icons
+ 
+## Icons
 
  
 ## Visual Designs (First Round)
@@ -88,6 +89,7 @@ Below we have both our web and phone prototype verisons with our color pallet. W
    <img src="Images/phonescreen.png">
  </kbd>
 
+
 ## Visual Designs (Second Round)
 
 Below we have another verison of our web and phone prototypes. We incorporated the light background theme because it was the most effective in our eyes. We tested the theme on our 4 main pages (Home, Suits, Appointment and Products).
@@ -99,7 +101,8 @@ Below we have another verison of our web and phone prototypes. We incorporated t
 <kbd>
    <img src="Images/Updated Phone Flow.png">
  </kbd>
- ## Visual Designs, Web View (Final Round)
+ 
+## Visual Designs, Web View (Final Round)
  <kbd>
    <img src="Images/DMRound21.jpg">
  </kbd>
@@ -109,7 +112,8 @@ Below we have another verison of our web and phone prototypes. We incorporated t
   <kbd>
    <img src="Images/DMRound23.jpg">
  </kbd>
-  ## Visual Designs, Phone View (Final Round)
+ 
+## Visual Designs, Phone View (Final Round)
   <kbd>
    <img src="Images/phoneMockR21.jpg">
  </kbd>
