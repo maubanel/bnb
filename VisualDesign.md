@@ -43,7 +43,7 @@ We chose these colors because they provide a since of traditon and up-scale valu
    <img src="Images/colorpallet.jpg">
  </kbd>
  
-## Logo / Brand (First Pass)
+## Logo / Brand (First Round)
 
 Here below are our first pass of potential logos for the website. We we're going for a simplistic design which showcases our business's mission and tagline "Since 1973". Also, incorporating some suit accessories like a bow tie or vest to the logo to help make it stand out.
 
@@ -57,7 +57,7 @@ Here below are our first pass of potential logos for the website. We we're going
    <img src="Images/BrownSuitLogo3.jpg">
  </kbd>
  
- ## Logo / Brand (Second Pass)
+ ## Logo / Brand (Second Round)
  
  Here below is our second pass of potential logos for the website. We decided to go back and add more of a custom feel so we   decided to incorporate some designs with a neddle and thread for example. We want our customers to know they are recieveing a unqiue suit for themselves.
  
@@ -65,7 +65,7 @@ Here below are our first pass of potential logos for the website. We we're going
    <img src="Images/Logo_BrownSuits_D02.png">
  </kbd>
  
-  ## Logo / Brand (Final Pass)
+  ## Logo / Brand (Final)
 
 Here below is our Final Logo
 
@@ -76,7 +76,7 @@ Here below is our Final Logo
  ## Icons
 
  
-## Visual Designs (First Pass)
+## Visual Designs (First Round)
 
 Below we have both our web and phone prototype verisons with our color pallet. We created a range to see what looks better and what colors to use for certain headlines, buttons, text and etc. We agreed we prefer a lighter background which causes the brown to stand out. Also we would use the navy blue as our acent color and use it for areas we want to draw attention to such as for promotion tags.
 
@@ -88,7 +88,7 @@ Below we have both our web and phone prototype verisons with our color pallet. W
    <img src="Images/phonescreen.png">
  </kbd>
 
-## Visual Designs (Second Pass)
+## Visual Designs (Second Round)
 
 Below we have another verison of our web and phone prototypes. We incorporated the light background theme because it was the most effective in our eyes. We tested the theme on our 4 main pages (Home, Suits, Appointment and Products).
 
@@ -98,4 +98,14 @@ Below we have another verison of our web and phone prototypes. We incorporated t
  
 <kbd>
    <img src="Images/Updated Phone Flow.png">
+ </kbd>
+ ## Visual Designs (Final)
+ <kbd>
+   <img src="Images/DMRound21.jpg">
+ </kbd>
+  <kbd>
+   <img src="Images/DMRound22.jpg">
+ </kbd>
+  <kbd>
+   <img src="Images/DMRound23.jpg">
  </kbd>
