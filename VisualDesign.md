@@ -99,7 +99,7 @@ Below we have another verison of our web and phone prototypes. We incorporated t
 <kbd>
    <img src="Images/Updated Phone Flow.png">
  </kbd>
- ## Visual Designs (Final Round)
+ ## Visual Designs, Web View (Final Round)
  <kbd>
    <img src="Images/DMRound21.jpg">
  </kbd>
@@ -108,4 +108,11 @@ Below we have another verison of our web and phone prototypes. We incorporated t
  </kbd>
   <kbd>
    <img src="Images/DMRound23.jpg">
+ </kbd>
+  ## Visual Designs, Phone View (Final Round)
+  <kbd>
+   <img src="Images/phoneMockR21.jpg">
+ </kbd>
+ <kbd>
+   <img src="Images/phoneMockR22.jpg">
  </kbd>
