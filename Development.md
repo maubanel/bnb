@@ -5,7 +5,7 @@
 
 ## Front End Developer
 
-
+We used HTML and CSS to construct the website using WordPress.
 
 ## Working Functional Code
 
