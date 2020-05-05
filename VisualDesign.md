@@ -120,3 +120,4 @@ Below we have another verison of our web and phone prototypes. We incorporated t
  <kbd>
    <img src="Images/phoneMockR22.jpg">
  </kbd>
+ https://github.com/maubanel/bnb/blob/master/FinalVisualDesignR%26N.xd
