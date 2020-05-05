@@ -74,7 +74,7 @@ Seven main user journey's are:
    <img src="Images/UsabilityTest1.jpg">
  </kbd>
  
-### Feedback Summary
+### Feedback Summary / AB Testing
 Above we have our questions we wanted to ask each tester. We have a website and mobile friendly version because we know some users will first encounter our site on a cell phone. We tested between 12-15 people for our usability prototype test.  Majority of our testers found our prototype to be very usable and easy to navigate. For example, when we asked testers to “go home” and they would click our Logo to go home. They explained most sites have this feature and they're pleased we incorporated it as well. They also loved how descriptive we were and the amount of effort put into the prototype.
  
  Some of the issues that our testers found are when we asked them to go to order a shoe they went to products instead of accessories. We want our site to be as clear as possible and cut the number of frustration clicks. Therefore, one solution we plan to implement is a search bar at the top and changing products to suits therefore we can keep the focus,which is on custom suits.
@@ -89,4 +89,3 @@ Here below is the version we tested (Pre) and now a revised verison per testers 
 
 https://github.com/maubanel/bnb/blob/master/Post%20Testing%20Custom%20Clothiers%20Prototype.xd
 https://github.com/maubanel/bnb/blob/master/Post%20Testing%20Custom%20Clothiers%20Prototype.xd
-## A/B Testing
