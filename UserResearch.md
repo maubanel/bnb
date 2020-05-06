@@ -89,3 +89,5 @@ Here below is the version we tested (Pre) and now a revised verison per testers 
 
 https://github.com/maubanel/bnb/blob/master/Post%20Testing%20Custom%20Clothiers%20Prototype.xd
 https://github.com/maubanel/bnb/blob/master/Post%20Testing%20Custom%20Clothiers%20Prototype.xd
+
+## Usability Test 02 (Design completed)
