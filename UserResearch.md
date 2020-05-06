@@ -91,3 +91,7 @@ https://github.com/maubanel/bnb/blob/master/Post%20Testing%20Custom%20Clothiers%
 https://github.com/maubanel/bnb/blob/master/Post%20Testing%20Custom%20Clothiers%20Prototype.xd
 
 ## Usability Test 02 (Design completed)
+
+Here is the shareable link to the BrownSuits final web design (interactive) prototype. This link has been shared with different users in order to receive their comments on the user experience and interface of the website.
+
+https://xd.adobe.com/view/a27210a0-d0d7-4f7b-6711-9095a1daec6e-d443/
