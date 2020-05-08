@@ -3,7 +3,7 @@
 # Industry Research
 
 ## Brand
-The Custom Clothiers brand is a family owned men’s boutique clothing storefront established in 1973. Custom Clothiers has classy and traditional elements such exposed wood so you can see the experience. Most importantly you trust the quality.
+The Brown Suits brand is a family owned men’s boutique clothing storefront established in 1973. Brown Suits has classy and traditional elements such exposed wood so you can see the experience. Most importantly you trust the quality.
 
 ## Culture
 
@@ -11,7 +11,7 @@ Traditional and Family owned
 
 ## Reputation  
 
-Custom Clothiers reputation is antique with classy and traditional elements. Selling exclusive and high quality suits.
+Brown Suits reputation is antique with classy and traditional elements. Selling exclusive and high quality suits.
 
 ## Industry
 
