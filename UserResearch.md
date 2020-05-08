@@ -97,7 +97,7 @@ Here is the shareable link to the BrownSuits final web design (interactive) pro
 https://xd.adobe.com/view/a27210a0-d0d7-4f7b-6711-9095a1daec6e-d443/
 
  <kbd>
-   <img src="Images/FinalUsabilityTest.jpg">
+   <img src="Images/FinalUsabilityTest.png">
  </kbd>
  
 You can read more comments by clicking on the link above.
