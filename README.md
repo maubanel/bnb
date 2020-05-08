@@ -5,7 +5,7 @@ Roderick Wilkins
 Narges Tavakoli
 
 Spring 2020 UX Project
-Custom Clothiers Business
+Brown Suits Business
 
 
 ## Initial Contact 
