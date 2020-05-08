@@ -4,7 +4,7 @@
 
 ## Cardsorting
  
-Comparing R&N Custom Clothiers to its competitors Martinez Custom, George Bass, iTailor and Men’s Wearhouse /Jos A. Banks. We listed all visible features on each website and then ranked our most important features we would like to see.
+Comparing Brown Suits to its competitors Martinez Custom, George Bass, iTailor and Men’s Wearhouse /Jos A. Banks. We listed all visible features on each website and then ranked our most important features we would like to see.
 
 ![alt text](Images/CardSortingByCompetition.jpg )
 
@@ -12,7 +12,7 @@ Comparing R&N Custom Clothiers to its competitors Martinez Custom, George Bass, 
 ![alt text](Images/CareASortingPriority.jpg )
 
 ## Navigation Hierarchy (Grouping)
-Upon reviewing the cardsorting exercise we noticed an overlap of certain words. We noticed Collection (Brands), About Us, FAQ and Contact Us were used between all the sites. Collecting this data will show how we should name certain things on the Custom Clothier website. This also lead to the following exercise of Grouping, which are grouping our features we think are important for the website.
+Upon reviewing the cardsorting exercise we noticed an overlap of certain words. We noticed Collection (Brands), About Us, FAQ and Contact Us were used between all the sites. Collecting this data will show how we should name certain things on the Brown Suits website. This also lead to the following exercise of Grouping, which are grouping our features we think are important for the website.
 
 ![alt text](Images/Narges-grouping.png )
 
