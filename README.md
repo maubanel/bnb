@@ -1,5 +1,6 @@
-# Executive Summary 
+![alt text](Images/webb2.png)
 
+# Executive Summary
 
 Roderick Wilkins
 Narges Tavakoli
